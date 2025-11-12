@@ -18,7 +18,7 @@ Navegador	Google Chrome / Firefox
 Editor de Código	Visual Studio Code / Sublime
 
 📁 Estrutura do Projeto
-
+```
 CookiesSessionsPHP/
 │
 ├── exemplo_login/
@@ -33,7 +33,7 @@ CookiesSessionsPHP/
 │   └── style.css       
 │
 └── README.md
-
+```
 🔑 Lógica de Sessão (Login)
 <?php
 session_start();
